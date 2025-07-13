@@ -76,4 +76,4 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## 👨‍💻 Author
 
-- **Viranya Gangamina** – [@your-github](https://github.com/Viranya2006)
+- **Viranya Gangamina** – (https://github.com/Viranya2006)
